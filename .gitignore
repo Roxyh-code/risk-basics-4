@@ -1,0 +1,11 @@
+# Original confidential data files
+Assignment 4 - SPY Rolling Option Portfolio - Student.xlsx
+Assignment 4 - SPY Rolling Option Portfolio - Student_BACKUP.xlsx
+Assignment 4 - SPY Rolling Option Portfolio.pdf
+
+# Claude Code local files
+.claude/
+
+# Temp files
+~$*.xlsx
+*.tmp
